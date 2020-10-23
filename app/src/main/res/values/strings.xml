@@ -1,9 +1,10 @@
 <resources>
-    <string name="app_name">InstagramClone</string>
+    <string name="app_name">GramGram</string>
     <string name="button">Button</string>
     <string name="login">LOGIN</string>
     <string name="description">Description...</string>
     <string name="take_picture">Take Picture</string>
     <string name="submit">Submit</string>
     <string name="create_account">CREATE ACCOUNT</string>
+    <string name="logout">LOGOUT</string>
 </resources>
