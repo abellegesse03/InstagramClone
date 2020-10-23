@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InstagramClone</string>
+    <string name="button">Button</string>
+    <string name="login">LOGIN</string>
+    <string name="description">Description...</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="submit">Submit</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+</resources>
